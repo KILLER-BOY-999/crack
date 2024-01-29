@@ -1,2 +1,2 @@
 import os;os.system('git pull')
-import od
+import od.py
