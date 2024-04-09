@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("rndm").menu()
+    __import__("gd").menu()
 except Exception as e:
     exit(str(e))
