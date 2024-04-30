@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("doo")._____menux_____()
+    __import__("doo").____menu____()
 except Exception as e:
     exit(str(e))
